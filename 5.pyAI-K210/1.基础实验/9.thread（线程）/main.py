@@ -18,6 +18,6 @@ def func(name):
 _thread.start_new_thread(func,("1",)) #开启线程1,参数必须是元组
 _thread.start_new_thread(func,("2",)) #开启线程2，参数必须是元组
 
-while True:A
+while True:
     pass
 
