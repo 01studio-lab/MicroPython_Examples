@@ -9,7 +9,8 @@
 ## 构造对象
 ` ` `
 from tls02 import TLS02
-BLE= TLS02(3,9600)
+
+BLE= TLS02(3,9600) #构造蓝牙对象，pyboard串口号，波特率9600
 ` ` `
 
 ## 使用方法
