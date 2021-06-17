@@ -23,8 +23,8 @@ d = LCD43R(portrait=1)
 d.fill(WHITE)
 
 #wifi信息
-SSID='WeBee_office_2.4G' # WiFi 账号
-KEY='webee0123456789'  # WiFi 密码
+SSID='01Studio' # WiFi 账号
+KEY='88888888'  # WiFi 密码
 
 ###### WiFi模块初始化 ######
 uart = UART(1,115200)
